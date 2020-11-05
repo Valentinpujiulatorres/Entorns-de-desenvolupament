@@ -1,0 +1,45 @@
+
+header{
+    margin-left: 35%;
+    border-color: #333;
+
+}
+h1{
+  margin-left: 30%;
+
+}
+h3{color: grey;}
+#navbarul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1px;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  #navbarul li {
+    display: block;
+    width: 170px;
+    float: left;
+  }
+  
+ #navbarul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 3px;
+    text-decoration: none;
+    margin-left: 0%;
+  }
+  
+  #navbarul li a:hover {
+    background-color: #111;
+  }
+
+  footer {
+    
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: white;
+  }
